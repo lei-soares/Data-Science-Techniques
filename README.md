@@ -36,25 +36,45 @@ Every folder represents a conceptual block commonly encountered in real data sci
   Data-Science-Techniques/
   `│
   ├── 00_Data_Generation_and_Simulation/
+  
   ├── 01_Exploratory_Data_Analysis_(EDA)/
+  
   ├── 02_Data_Preprocessing/
+  
   ├── 03_Feature_Engineering/
+  
   ├── 04_Supervised_Learning/
+  
   ├── 05_Unsupervised_Learning/
+  
   ├── 06_Model_Evaluation_and_Validation/
+  
   ├── 07_Model_Tuning_and_Optimization/
+  
   ├── 08_Interpretability_and_Explainability/
+  
   ├── 09_Pipelines_and_Workflows/
+  
   ├── 10_NLP/
+  
   ├── 11_Time_Series/
+  
   ├── 12_Anomaly_and_Fraud_Detection/
+  
   ├── 13_Imbalanced_Learning/
+  
   ├── 14_Deployment_and_Production_Concepts/
+  
   ├── 15_Business_and_Experimental_Design/
+  
   │
+  
   ├── datasets/
+  
   ├── utils/
+  
   ├── templates/
+  
   └── README.md`
 
 ## Folder Descriptions
