@@ -34,7 +34,7 @@ Every folder represents a conceptual block commonly encountered in real data sci
 
 # Repository Structure
   Data-Science-Techniques/
-  │
+  `│
   ├── 00_Data_Generation_and_Simulation/
   ├── 01_Exploratory_Data_Analysis_(EDA)/
   ├── 02_Data_Preprocessing/
@@ -55,7 +55,7 @@ Every folder represents a conceptual block commonly encountered in real data sci
   ├── datasets/
   ├── utils/
   ├── templates/
-  └── README.md
+  └── README.md`
 
 ## Folder Descriptions
 ### 00 – Data Generation and Simulation
