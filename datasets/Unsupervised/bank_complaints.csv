@@ -1,0 +1,1501 @@
+complaint_id,text,product,channel
+C00001,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Website
+C00002,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Mobile App
+C00003,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Mobile App
+C00004,annual fee was applied without notice. I have contacted support multiple times.,Credit Card,Email
+C00005,customer service never responds. I expect a prompt resolution.,Mortgage,Website
+C00006,cannot reopen my account. this is unacceptable.,Credit Card,Website
+C00007,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Mobile App
+C00008,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Call Center
+C00009,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Mobile App
+C00010,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Call Center
+C00011,transactions not showing in app. please resolve this issue immediately.,Online Banking,Mobile App
+C00012,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Mobile App
+C00013,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Call Center
+C00014,cannot reopen my account. please resolve this issue immediately.,Credit Card,Email
+C00015,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Website
+C00016,online banking system was down. I have contacted support multiple times.,Online Banking,Mobile App
+C00017,card was used without my permission. this is unacceptable.,Checking Account,Call Center
+C00018,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Website
+C00019,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Email
+C00020,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Website
+C00021,loan status keeps changing online. this is unacceptable.,Personal Loan,Call Center
+C00022,cannot reopen my account. I have contacted support multiple times.,Credit Card,Call Center
+C00023,annual fee was applied without notice. this has been very frustrating.,Credit Card,Call Center
+C00024,card was used without my permission. this has been very frustrating.,Checking Account,Website
+C00025,representative was unhelpful. I have contacted support multiple times.,Mortgage,Branch
+C00026,dispute process is extremely slow. I have contacted support multiple times.,Checking Account,Call Center
+C00027,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Email
+C00028,transactions not showing in app. this is unacceptable.,Online Banking,Email
+C00029,card was used without my permission. I have contacted support multiple times.,Checking Account,Website
+C00030,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Mobile App
+C00031,annual fee was applied without notice. I have contacted support multiple times.,Credit Card,Branch
+C00032,customer service never responds. this is unacceptable.,Mortgage,Branch
+C00033,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Call Center
+C00034,customer service never responds. this has been very frustrating.,Mortgage,Email
+C00035,unable to log into my account. this has been very frustrating.,Online Banking,Call Center
+C00036,fraud claim has not been resolved. this is unacceptable.,Checking Account,Mobile App
+C00037,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Website
+C00038,customer service never responds. please resolve this issue immediately.,Mortgage,Email
+C00039,long wait times on the phone. I have contacted support multiple times.,Mortgage,Call Center
+C00040,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Mobile App
+C00041,representative was unhelpful. this is unacceptable.,Mortgage,Mobile App
+C00042,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Website
+C00043,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Mobile App
+C00044,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Email
+C00045,approval process is taking too long. this is unacceptable.,Personal Loan,Email
+C00046,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C00047,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Website
+C00048,funds are inaccessible after closure. this is unacceptable.,Credit Card,Call Center
+C00049,fraudulent charges still pending. this is unacceptable.,Checking Account,Mobile App
+C00050,approval process is taking too long. this has been very frustrating.,Personal Loan,Call Center
+C00051,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Website
+C00052,long wait times on the phone. this has been very frustrating.,Mortgage,Mobile App
+C00053,account was closed without warning. I have contacted support multiple times.,Credit Card,Mobile App
+C00054,interest rate increased suddenly. this has been very frustrating.,Credit Card,Email
+C00055,documents were submitted but no response. this is unacceptable.,Personal Loan,Website
+C00056,long wait times on the phone. I expect a prompt resolution.,Mortgage,Email
+C00057,fraud claim has not been resolved. this is unacceptable.,Checking Account,Branch
+C00058,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Branch
+C00059,website shows error during login. this is unacceptable.,Online Banking,Branch
+C00060,account was closed without warning. this has been very frustrating.,Credit Card,Mobile App
+C00061,card was used without my permission. this has been very frustrating.,Checking Account,Website
+C00062,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Branch
+C00063,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Call Center
+C00064,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Branch
+C00065,customer service never responds. this has been very frustrating.,Mortgage,Email
+C00066,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Website
+C00067,dispute process is extremely slow. this is unacceptable.,Checking Account,Website
+C00068,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Branch
+C00069,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Branch
+C00070,website shows error during login. I expect a prompt resolution.,Online Banking,Branch
+C00071,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Website
+C00072,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Mobile App
+C00073,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Mobile App
+C00074,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Email
+C00075,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Mobile App
+C00076,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Mobile App
+C00077,received notice that my account is terminated. this is unacceptable.,Credit Card,Mobile App
+C00078,long wait times on the phone. I expect a prompt resolution.,Mortgage,Email
+C00079,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Branch
+C00080,cannot reopen my account. I expect a prompt resolution.,Credit Card,Email
+C00081,unable to log into my account. I have contacted support multiple times.,Online Banking,Call Center
+C00082,documents were submitted but no response. this is unacceptable.,Personal Loan,Website
+C00083,funds are inaccessible after closure. this is unacceptable.,Credit Card,Call Center
+C00084,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Email
+C00085,customer service never responds. this has been very frustrating.,Mortgage,Email
+C00086,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Website
+C00087,online banking system was down. I have contacted support multiple times.,Online Banking,Call Center
+C00088,mobile app keeps crashing. this is unacceptable.,Online Banking,Email
+C00089,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Email
+C00090,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Mobile App
+C00091,documents were submitted but no response. this has been very frustrating.,Personal Loan,Mobile App
+C00092,cannot reopen my account. I have contacted support multiple times.,Credit Card,Call Center
+C00093,transactions not showing in app. I have contacted support multiple times.,Online Banking,Call Center
+C00094,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Branch
+C00095,online banking system was down. this has been very frustrating.,Online Banking,Branch
+C00096,online banking system was down. this has been very frustrating.,Online Banking,Call Center
+C00097,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Branch
+C00098,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Mobile App
+C00099,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Email
+C00100,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Email
+C00101,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Mobile App
+C00102,unable to log into my account. this has been very frustrating.,Online Banking,Call Center
+C00103,approval process is taking too long. this has been very frustrating.,Personal Loan,Call Center
+C00104,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Website
+C00105,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Branch
+C00106,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Branch
+C00107,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Website
+C00108,account was closed without warning. this is unacceptable.,Credit Card,Mobile App
+C00109,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Branch
+C00110,unable to log into my account. I have contacted support multiple times.,Online Banking,Website
+C00111,annual fee was applied without notice. this is unacceptable.,Credit Card,Call Center
+C00112,online banking system was down. please resolve this issue immediately.,Online Banking,Call Center
+C00113,cannot reopen my account. this is unacceptable.,Credit Card,Email
+C00114,online banking system was down. this has been very frustrating.,Online Banking,Call Center
+C00115,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Mobile App
+C00116,billing statement has unexplained charges. this is unacceptable.,Credit Card,Call Center
+C00117,funds are inaccessible after closure. this is unacceptable.,Credit Card,Email
+C00118,customer service never responds. this is unacceptable.,Mortgage,Email
+C00119,documents were submitted but no response. this has been very frustrating.,Personal Loan,Branch
+C00120,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Website
+C00121,website shows error during login. this has been very frustrating.,Online Banking,Call Center
+C00122,representative was unhelpful. this has been very frustrating.,Mortgage,Call Center
+C00123,representative was unhelpful. this is unacceptable.,Mortgage,Call Center
+C00124,card was used without my permission. I expect a prompt resolution.,Checking Account,Website
+C00125,loan status keeps changing online. this is unacceptable.,Personal Loan,Website
+C00126,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Branch
+C00127,customer service never responds. please resolve this issue immediately.,Mortgage,Call Center
+C00128,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Email
+C00129,funds are inaccessible after closure. this is unacceptable.,Credit Card,Branch
+C00130,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Branch
+C00131,received notice that my account is terminated. this has been very frustrating.,Credit Card,Call Center
+C00132,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Mobile App
+C00133,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Website
+C00134,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Website
+C00135,fraudulent charges still pending. this has been very frustrating.,Checking Account,Branch
+C00136,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Branch
+C00137,dispute process is extremely slow. I have contacted support multiple times.,Checking Account,Website
+C00138,account was closed without warning. this has been very frustrating.,Credit Card,Branch
+C00139,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Branch
+C00140,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Mobile App
+C00141,fraud claim has not been resolved. this is unacceptable.,Checking Account,Email
+C00142,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Branch
+C00143,support team keeps transferring me. this is unacceptable.,Mortgage,Email
+C00144,fraud claim has not been resolved. this is unacceptable.,Checking Account,Branch
+C00145,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Email
+C00146,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Branch
+C00147,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Call Center
+C00148,unable to log into my account. I expect a prompt resolution.,Online Banking,Mobile App
+C00149,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Branch
+C00150,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Mobile App
+C00151,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Email
+C00152,dispute process is extremely slow. this has been very frustrating.,Checking Account,Website
+C00153,dispute process is extremely slow. I expect a prompt resolution.,Checking Account,Mobile App
+C00154,issue was escalated but no follow up. this is unacceptable.,Mortgage,Mobile App
+C00155,unable to log into my account. this is unacceptable.,Online Banking,Branch
+C00156,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Website
+C00157,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Branch
+C00158,unauthorized transaction on my account. this is unacceptable.,Checking Account,Call Center
+C00159,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Branch
+C00160,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Mobile App
+C00161,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Mobile App
+C00162,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Branch
+C00163,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Branch
+C00164,mobile app keeps crashing. this is unacceptable.,Online Banking,Call Center
+C00165,website shows error during login. please resolve this issue immediately.,Online Banking,Branch
+C00166,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00167,cannot reopen my account. this has been very frustrating.,Credit Card,Call Center
+C00168,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Mobile App
+C00169,approval process is taking too long. this has been very frustrating.,Personal Loan,Email
+C00170,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Branch
+C00171,account was closed without warning. I expect a prompt resolution.,Credit Card,Website
+C00172,card was used without my permission. please resolve this issue immediately.,Checking Account,Website
+C00173,support team keeps transferring me. this has been very frustrating.,Mortgage,Website
+C00174,online banking system was down. I expect a prompt resolution.,Online Banking,Mobile App
+C00175,transactions not showing in app. this is unacceptable.,Online Banking,Branch
+C00176,received notice that my account is terminated. this has been very frustrating.,Credit Card,Email
+C00177,received notice that my account is terminated. this has been very frustrating.,Credit Card,Call Center
+C00178,cannot reopen my account. this has been very frustrating.,Credit Card,Email
+C00179,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Branch
+C00180,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Email
+C00181,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Branch
+C00182,unauthorized transaction on my account. this is unacceptable.,Checking Account,Call Center
+C00183,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Branch
+C00184,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Email
+C00185,issue was escalated but no follow up. this is unacceptable.,Mortgage,Branch
+C00186,cannot reopen my account. please resolve this issue immediately.,Credit Card,Call Center
+C00187,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Branch
+C00188,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Email
+C00189,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Mobile App
+C00190,card was used without my permission. I have contacted support multiple times.,Checking Account,Branch
+C00191,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Call Center
+C00192,transactions not showing in app. please resolve this issue immediately.,Online Banking,Email
+C00193,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Mobile App
+C00194,loan status keeps changing online. this is unacceptable.,Personal Loan,Email
+C00195,loan status keeps changing online. this is unacceptable.,Personal Loan,Branch
+C00196,charged unexpected fees on my credit card. please resolve this issue immediately.,Credit Card,Website
+C00197,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Email
+C00198,website shows error during login. I expect a prompt resolution.,Online Banking,Email
+C00199,website shows error during login. I expect a prompt resolution.,Online Banking,Call Center
+C00200,website shows error during login. please resolve this issue immediately.,Online Banking,Call Center
+C00201,mobile app keeps crashing. this has been very frustrating.,Online Banking,Website
+C00202,online banking system was down. I expect a prompt resolution.,Online Banking,Website
+C00203,approval process is taking too long. this is unacceptable.,Personal Loan,Call Center
+C00204,cannot reopen my account. I expect a prompt resolution.,Credit Card,Email
+C00205,online banking system was down. I have contacted support multiple times.,Online Banking,Call Center
+C00206,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Call Center
+C00207,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Call Center
+C00208,charged unexpected fees on my credit card. I expect a prompt resolution.,Credit Card,Call Center
+C00209,received notice that my account is terminated. this is unacceptable.,Credit Card,Mobile App
+C00210,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Branch
+C00211,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Website
+C00212,interest rate increased suddenly. this is unacceptable.,Credit Card,Mobile App
+C00213,late payment fee seems incorrect. this is unacceptable.,Credit Card,Mobile App
+C00214,customer service never responds. I have contacted support multiple times.,Mortgage,Website
+C00215,representative was unhelpful. this has been very frustrating.,Mortgage,Website
+C00216,billing statement has unexplained charges. this is unacceptable.,Credit Card,Email
+C00217,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Email
+C00218,dispute process is extremely slow. this is unacceptable.,Checking Account,Call Center
+C00219,issue was escalated but no follow up. please resolve this issue immediately.,Mortgage,Email
+C00220,customer service never responds. I expect a prompt resolution.,Mortgage,Mobile App
+C00221,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Mobile App
+C00222,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Email
+C00223,annual fee was applied without notice. this has been very frustrating.,Credit Card,Branch
+C00224,fraudulent charges still pending. this is unacceptable.,Checking Account,Call Center
+C00225,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Call Center
+C00226,no explanation given for account closure. this has been very frustrating.,Credit Card,Website
+C00227,transactions not showing in app. I have contacted support multiple times.,Online Banking,Branch
+C00228,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Website
+C00229,mobile app keeps crashing. this has been very frustrating.,Online Banking,Mobile App
+C00230,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C00231,website shows error during login. this has been very frustrating.,Online Banking,Branch
+C00232,funds are inaccessible after closure. this is unacceptable.,Credit Card,Call Center
+C00233,support team keeps transferring me. this is unacceptable.,Mortgage,Branch
+C00234,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Branch
+C00235,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Call Center
+C00236,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Email
+C00237,customer service never responds. please resolve this issue immediately.,Mortgage,Email
+C00238,annual fee was applied without notice. this is unacceptable.,Credit Card,Email
+C00239,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Website
+C00240,issue was escalated but no follow up. this is unacceptable.,Mortgage,Mobile App
+C00241,card was used without my permission. this is unacceptable.,Checking Account,Call Center
+C00242,online banking system was down. I have contacted support multiple times.,Online Banking,Call Center
+C00243,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Branch
+C00244,customer service never responds. this is unacceptable.,Mortgage,Mobile App
+C00245,unable to log into my account. please resolve this issue immediately.,Online Banking,Mobile App
+C00246,fraudulent charges still pending. this has been very frustrating.,Checking Account,Email
+C00247,dispute process is extremely slow. this has been very frustrating.,Checking Account,Website
+C00248,representative was unhelpful. I expect a prompt resolution.,Mortgage,Branch
+C00249,no explanation given for account closure. this has been very frustrating.,Credit Card,Website
+C00250,transactions not showing in app. I have contacted support multiple times.,Online Banking,Call Center
+C00251,dispute process is extremely slow. this has been very frustrating.,Checking Account,Mobile App
+C00252,cannot reopen my account. I have contacted support multiple times.,Credit Card,Website
+C00253,transactions not showing in app. this has been very frustrating.,Online Banking,Email
+C00254,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Mobile App
+C00255,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Branch
+C00256,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Call Center
+C00257,dispute process is extremely slow. this is unacceptable.,Checking Account,Website
+C00258,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Branch
+C00259,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Website
+C00260,interest rate increased suddenly. this is unacceptable.,Credit Card,Call Center
+C00261,representative was unhelpful. this has been very frustrating.,Mortgage,Call Center
+C00262,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Email
+C00263,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Branch
+C00264,issue was escalated but no follow up. please resolve this issue immediately.,Mortgage,Call Center
+C00265,support team keeps transferring me. this is unacceptable.,Mortgage,Branch
+C00266,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Email
+C00267,fraud claim has not been resolved. this is unacceptable.,Checking Account,Mobile App
+C00268,website shows error during login. this is unacceptable.,Online Banking,Branch
+C00269,received notice that my account is terminated. this is unacceptable.,Credit Card,Mobile App
+C00270,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Call Center
+C00271,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Email
+C00272,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Branch
+C00273,received notice that my account is terminated. this has been very frustrating.,Credit Card,Branch
+C00274,unable to log into my account. I expect a prompt resolution.,Online Banking,Branch
+C00275,account was closed without warning. please resolve this issue immediately.,Credit Card,Email
+C00276,card was used without my permission. this is unacceptable.,Checking Account,Email
+C00277,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Website
+C00278,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Mobile App
+C00279,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Branch
+C00280,documents were submitted but no response. this has been very frustrating.,Personal Loan,Mobile App
+C00281,online banking system was down. please resolve this issue immediately.,Online Banking,Call Center
+C00282,website shows error during login. I have contacted support multiple times.,Online Banking,Website
+C00283,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Website
+C00284,approval process is taking too long. this has been very frustrating.,Personal Loan,Email
+C00285,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Branch
+C00286,long wait times on the phone. I have contacted support multiple times.,Mortgage,Branch
+C00287,funds are inaccessible after closure. this is unacceptable.,Credit Card,Call Center
+C00288,account was closed without warning. this is unacceptable.,Credit Card,Call Center
+C00289,cannot reopen my account. I have contacted support multiple times.,Credit Card,Mobile App
+C00290,card was used without my permission. I expect a prompt resolution.,Checking Account,Call Center
+C00291,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Branch
+C00292,mobile app keeps crashing. this is unacceptable.,Online Banking,Branch
+C00293,annual fee was applied without notice. this is unacceptable.,Credit Card,Email
+C00294,transactions not showing in app. please resolve this issue immediately.,Online Banking,Call Center
+C00295,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Mobile App
+C00296,customer service never responds. I expect a prompt resolution.,Mortgage,Branch
+C00297,mobile app keeps crashing. I expect a prompt resolution.,Online Banking,Call Center
+C00298,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Call Center
+C00299,received notice that my account is terminated. this has been very frustrating.,Credit Card,Mobile App
+C00300,website shows error during login. this has been very frustrating.,Online Banking,Email
+C00301,mobile app keeps crashing. this has been very frustrating.,Online Banking,Call Center
+C00302,website shows error during login. I have contacted support multiple times.,Online Banking,Website
+C00303,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Email
+C00304,representative was unhelpful. I have contacted support multiple times.,Mortgage,Call Center
+C00305,card was used without my permission. please resolve this issue immediately.,Checking Account,Mobile App
+C00306,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Website
+C00307,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Call Center
+C00308,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Call Center
+C00309,customer service never responds. this is unacceptable.,Mortgage,Call Center
+C00310,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Branch
+C00311,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Website
+C00312,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Email
+C00313,transactions not showing in app. I have contacted support multiple times.,Online Banking,Mobile App
+C00314,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Branch
+C00315,annual fee was applied without notice. this has been very frustrating.,Credit Card,Mobile App
+C00316,website shows error during login. this has been very frustrating.,Online Banking,Mobile App
+C00317,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Branch
+C00318,card was used without my permission. I expect a prompt resolution.,Checking Account,Branch
+C00319,long wait times on the phone. this is unacceptable.,Mortgage,Mobile App
+C00320,fraudulent charges still pending. this is unacceptable.,Checking Account,Call Center
+C00321,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Branch
+C00322,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Mobile App
+C00323,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Call Center
+C00324,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Website
+C00325,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Website
+C00326,cannot reopen my account. this has been very frustrating.,Credit Card,Mobile App
+C00327,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Email
+C00328,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Website
+C00329,long wait times on the phone. I have contacted support multiple times.,Mortgage,Call Center
+C00330,received conflicting information about approval. this has been very frustrating.,Personal Loan,Call Center
+C00331,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Call Center
+C00332,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Website
+C00333,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Email
+C00334,online banking system was down. I have contacted support multiple times.,Online Banking,Call Center
+C00335,annual fee was applied without notice. this is unacceptable.,Credit Card,Email
+C00336,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Branch
+C00337,transactions not showing in app. I expect a prompt resolution.,Online Banking,Mobile App
+C00338,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Email
+C00339,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Branch
+C00340,account was closed without warning. this has been very frustrating.,Credit Card,Branch
+C00341,dispute process is extremely slow. this has been very frustrating.,Checking Account,Branch
+C00342,no explanation given for account closure. this has been very frustrating.,Credit Card,Mobile App
+C00343,transactions not showing in app. I have contacted support multiple times.,Online Banking,Mobile App
+C00344,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C00345,representative was unhelpful. this is unacceptable.,Mortgage,Email
+C00346,representative was unhelpful. this is unacceptable.,Mortgage,Email
+C00347,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Mobile App
+C00348,cannot reopen my account. I have contacted support multiple times.,Credit Card,Branch
+C00349,fraud claim has not been resolved. this is unacceptable.,Checking Account,Call Center
+C00350,dispute process is extremely slow. this is unacceptable.,Checking Account,Mobile App
+C00351,website shows error during login. please resolve this issue immediately.,Online Banking,Call Center
+C00352,mobile app keeps crashing. this is unacceptable.,Online Banking,Mobile App
+C00353,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Branch
+C00354,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Email
+C00355,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Email
+C00356,online banking system was down. this is unacceptable.,Online Banking,Call Center
+C00357,no explanation given for account closure. this has been very frustrating.,Credit Card,Call Center
+C00358,representative was unhelpful. please resolve this issue immediately.,Mortgage,Mobile App
+C00359,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Website
+C00360,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Mobile App
+C00361,transactions not showing in app. please resolve this issue immediately.,Online Banking,Mobile App
+C00362,transactions not showing in app. I have contacted support multiple times.,Online Banking,Branch
+C00363,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Email
+C00364,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Mobile App
+C00365,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Call Center
+C00366,online banking system was down. I have contacted support multiple times.,Online Banking,Website
+C00367,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Website
+C00368,account was closed without warning. this has been very frustrating.,Credit Card,Email
+C00369,loan status keeps changing online. this is unacceptable.,Personal Loan,Branch
+C00370,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Call Center
+C00371,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Email
+C00372,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Website
+C00373,customer service never responds. this has been very frustrating.,Mortgage,Call Center
+C00374,dispute process is extremely slow. this is unacceptable.,Checking Account,Email
+C00375,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Website
+C00376,customer service never responds. please resolve this issue immediately.,Mortgage,Branch
+C00377,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Branch
+C00378,representative was unhelpful. this has been very frustrating.,Mortgage,Website
+C00379,fraudulent charges still pending. this has been very frustrating.,Checking Account,Mobile App
+C00380,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Website
+C00381,unable to log into my account. please resolve this issue immediately.,Online Banking,Mobile App
+C00382,late payment fee seems incorrect. this is unacceptable.,Credit Card,Website
+C00383,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Website
+C00384,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Mobile App
+C00385,unauthorized transaction on my account. this is unacceptable.,Checking Account,Mobile App
+C00386,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Email
+C00387,fraudulent charges still pending. this is unacceptable.,Checking Account,Branch
+C00388,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00389,mobile app keeps crashing. I expect a prompt resolution.,Online Banking,Branch
+C00390,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Branch
+C00391,annual fee was applied without notice. this is unacceptable.,Credit Card,Email
+C00392,fraudulent charges still pending. this has been very frustrating.,Checking Account,Branch
+C00393,unable to log into my account. I have contacted support multiple times.,Online Banking,Call Center
+C00394,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Mobile App
+C00395,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Call Center
+C00396,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Mobile App
+C00397,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Website
+C00398,long wait times on the phone. this has been very frustrating.,Mortgage,Website
+C00399,no explanation given for account closure. this is unacceptable.,Credit Card,Email
+C00400,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Email
+C00401,unable to log into my account. I have contacted support multiple times.,Online Banking,Branch
+C00402,late payment fee seems incorrect. this is unacceptable.,Credit Card,Call Center
+C00403,transactions not showing in app. this has been very frustrating.,Online Banking,Call Center
+C00404,customer service never responds. please resolve this issue immediately.,Mortgage,Branch
+C00405,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Call Center
+C00406,online banking system was down. this has been very frustrating.,Online Banking,Email
+C00407,support team keeps transferring me. this is unacceptable.,Mortgage,Branch
+C00408,support team keeps transferring me. this has been very frustrating.,Mortgage,Branch
+C00409,long wait times on the phone. please resolve this issue immediately.,Mortgage,Email
+C00410,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Mobile App
+C00411,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Mobile App
+C00412,long wait times on the phone. this has been very frustrating.,Mortgage,Website
+C00413,no explanation given for account closure. this is unacceptable.,Credit Card,Email
+C00414,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Call Center
+C00415,unable to log into my account. this is unacceptable.,Online Banking,Branch
+C00416,transactions not showing in app. this has been very frustrating.,Online Banking,Call Center
+C00417,interest rate increased suddenly. this has been very frustrating.,Credit Card,Email
+C00418,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Call Center
+C00419,cannot reopen my account. I have contacted support multiple times.,Credit Card,Call Center
+C00420,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Call Center
+C00421,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C00422,account was closed without warning. please resolve this issue immediately.,Credit Card,Email
+C00423,card was used without my permission. I have contacted support multiple times.,Checking Account,Email
+C00424,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Call Center
+C00425,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Website
+C00426,documents were submitted but no response. this is unacceptable.,Personal Loan,Website
+C00427,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Mobile App
+C00428,online banking system was down. I expect a prompt resolution.,Online Banking,Email
+C00429,cannot reopen my account. this has been very frustrating.,Credit Card,Call Center
+C00430,long wait times on the phone. I expect a prompt resolution.,Mortgage,Branch
+C00431,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Email
+C00432,loan status keeps changing online. this has been very frustrating.,Personal Loan,Branch
+C00433,mobile app keeps crashing. this is unacceptable.,Online Banking,Email
+C00434,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C00435,documents were submitted but no response. this is unacceptable.,Personal Loan,Website
+C00436,transactions not showing in app. this is unacceptable.,Online Banking,Branch
+C00437,website shows error during login. I expect a prompt resolution.,Online Banking,Email
+C00438,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Email
+C00439,documents were submitted but no response. this has been very frustrating.,Personal Loan,Branch
+C00440,transactions not showing in app. this has been very frustrating.,Online Banking,Email
+C00441,interest rate increased suddenly. this has been very frustrating.,Credit Card,Website
+C00442,website shows error during login. I expect a prompt resolution.,Online Banking,Website
+C00443,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Branch
+C00444,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00445,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Website
+C00446,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Website
+C00447,interest rate increased suddenly. this has been very frustrating.,Credit Card,Call Center
+C00448,approval process is taking too long. this has been very frustrating.,Personal Loan,Call Center
+C00449,fraud claim has not been resolved. this is unacceptable.,Checking Account,Branch
+C00450,customer service never responds. this has been very frustrating.,Mortgage,Mobile App
+C00451,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Email
+C00452,cannot reopen my account. I expect a prompt resolution.,Credit Card,Branch
+C00453,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Call Center
+C00454,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Branch
+C00455,cannot reopen my account. this is unacceptable.,Credit Card,Mobile App
+C00456,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Email
+C00457,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Website
+C00458,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Branch
+C00459,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Website
+C00460,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Mobile App
+C00461,representative was unhelpful. this has been very frustrating.,Mortgage,Email
+C00462,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Email
+C00463,late payment fee seems incorrect. this is unacceptable.,Credit Card,Mobile App
+C00464,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Call Center
+C00465,account was closed without warning. please resolve this issue immediately.,Credit Card,Mobile App
+C00466,mobile app keeps crashing. this has been very frustrating.,Online Banking,Email
+C00467,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Mobile App
+C00468,transactions not showing in app. please resolve this issue immediately.,Online Banking,Website
+C00469,no explanation given for account closure. this is unacceptable.,Credit Card,Website
+C00470,loan application was denied without explanation. this is unacceptable.,Personal Loan,Mobile App
+C00471,mobile app keeps crashing. this has been very frustrating.,Online Banking,Website
+C00472,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Email
+C00473,fraudulent charges still pending. this is unacceptable.,Checking Account,Call Center
+C00474,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Call Center
+C00475,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Mobile App
+C00476,website shows error during login. this is unacceptable.,Online Banking,Branch
+C00477,card was used without my permission. I have contacted support multiple times.,Checking Account,Branch
+C00478,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Email
+C00479,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00480,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Email
+C00481,unable to log into my account. this has been very frustrating.,Online Banking,Mobile App
+C00482,unable to log into my account. please resolve this issue immediately.,Online Banking,Branch
+C00483,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Branch
+C00484,website shows error during login. this has been very frustrating.,Online Banking,Call Center
+C00485,issue was escalated but no follow up. please resolve this issue immediately.,Mortgage,Mobile App
+C00486,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Email
+C00487,received notice that my account is terminated. this has been very frustrating.,Credit Card,Website
+C00488,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Website
+C00489,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Call Center
+C00490,fraudulent charges still pending. this has been very frustrating.,Checking Account,Email
+C00491,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Call Center
+C00492,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Website
+C00493,representative was unhelpful. this is unacceptable.,Mortgage,Call Center
+C00494,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Mobile App
+C00495,annual fee was applied without notice. this is unacceptable.,Credit Card,Email
+C00496,fraudulent charges still pending. this has been very frustrating.,Checking Account,Call Center
+C00497,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C00498,website shows error during login. I have contacted support multiple times.,Online Banking,Mobile App
+C00499,loan application was denied without explanation. this is unacceptable.,Personal Loan,Website
+C00500,no explanation given for account closure. this has been very frustrating.,Credit Card,Call Center
+C00501,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Email
+C00502,representative was unhelpful. please resolve this issue immediately.,Mortgage,Website
+C00503,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Email
+C00504,loan application was denied without explanation. I have contacted support multiple times.,Personal Loan,Website
+C00505,loan status keeps changing online. this has been very frustrating.,Personal Loan,Call Center
+C00506,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Branch
+C00507,long wait times on the phone. I expect a prompt resolution.,Mortgage,Mobile App
+C00508,interest rate increased suddenly. this is unacceptable.,Credit Card,Branch
+C00509,issue was escalated but no follow up. this is unacceptable.,Mortgage,Email
+C00510,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Mobile App
+C00511,dispute process is extremely slow. I expect a prompt resolution.,Checking Account,Call Center
+C00512,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Website
+C00513,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Mobile App
+C00514,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Call Center
+C00515,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Website
+C00516,transactions not showing in app. please resolve this issue immediately.,Online Banking,Mobile App
+C00517,mobile app keeps crashing. I expect a prompt resolution.,Online Banking,Call Center
+C00518,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C00519,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Email
+C00520,long wait times on the phone. I have contacted support multiple times.,Mortgage,Email
+C00521,cannot reopen my account. please resolve this issue immediately.,Credit Card,Email
+C00522,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Mobile App
+C00523,cannot reopen my account. please resolve this issue immediately.,Credit Card,Website
+C00524,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Mobile App
+C00525,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Call Center
+C00526,fraud claim has not been resolved. this is unacceptable.,Checking Account,Call Center
+C00527,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Website
+C00528,dispute process is extremely slow. this is unacceptable.,Checking Account,Branch
+C00529,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Website
+C00530,unable to log into my account. please resolve this issue immediately.,Online Banking,Branch
+C00531,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C00532,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Branch
+C00533,interest rate increased suddenly. this is unacceptable.,Credit Card,Website
+C00534,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Call Center
+C00535,fraudulent charges still pending. this is unacceptable.,Checking Account,Website
+C00536,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Call Center
+C00537,approval process is taking too long. this is unacceptable.,Personal Loan,Email
+C00538,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Branch
+C00539,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Email
+C00540,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Email
+C00541,online banking system was down. this has been very frustrating.,Online Banking,Call Center
+C00542,fraudulent charges still pending. this is unacceptable.,Checking Account,Call Center
+C00543,customer service never responds. this has been very frustrating.,Mortgage,Branch
+C00544,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Branch
+C00545,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00546,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Call Center
+C00547,representative was unhelpful. this has been very frustrating.,Mortgage,Branch
+C00548,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Call Center
+C00549,support team keeps transferring me. this has been very frustrating.,Mortgage,Website
+C00550,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Call Center
+C00551,representative was unhelpful. I have contacted support multiple times.,Mortgage,Website
+C00552,support team keeps transferring me. this is unacceptable.,Mortgage,Email
+C00553,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Website
+C00554,funds are inaccessible after closure. this is unacceptable.,Credit Card,Email
+C00555,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Email
+C00556,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Call Center
+C00557,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Call Center
+C00558,representative was unhelpful. I expect a prompt resolution.,Mortgage,Email
+C00559,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Call Center
+C00560,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Call Center
+C00561,account was closed without warning. this is unacceptable.,Credit Card,Email
+C00562,online banking system was down. I expect a prompt resolution.,Online Banking,Branch
+C00563,transactions not showing in app. I expect a prompt resolution.,Online Banking,Website
+C00564,account was closed without warning. I expect a prompt resolution.,Credit Card,Branch
+C00565,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Branch
+C00566,approval process is taking too long. this has been very frustrating.,Personal Loan,Email
+C00567,account was closed without warning. I have contacted support multiple times.,Credit Card,Mobile App
+C00568,card was used without my permission. this is unacceptable.,Checking Account,Website
+C00569,fraud claim has not been resolved. this is unacceptable.,Checking Account,Email
+C00570,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Website
+C00571,long wait times on the phone. I expect a prompt resolution.,Mortgage,Call Center
+C00572,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Branch
+C00573,mobile app keeps crashing. this is unacceptable.,Online Banking,Email
+C00574,transactions not showing in app. please resolve this issue immediately.,Online Banking,Call Center
+C00575,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Website
+C00576,transactions not showing in app. please resolve this issue immediately.,Online Banking,Website
+C00577,unable to log into my account. I have contacted support multiple times.,Online Banking,Branch
+C00578,website shows error during login. please resolve this issue immediately.,Online Banking,Email
+C00579,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Mobile App
+C00580,support team keeps transferring me. this is unacceptable.,Mortgage,Branch
+C00581,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Mobile App
+C00582,online banking system was down. please resolve this issue immediately.,Online Banking,Branch
+C00583,funds are inaccessible after closure. this is unacceptable.,Credit Card,Website
+C00584,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Email
+C00585,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Mobile App
+C00586,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Website
+C00587,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Website
+C00588,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Call Center
+C00589,no explanation given for account closure. this has been very frustrating.,Credit Card,Website
+C00590,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Branch
+C00591,no explanation given for account closure. this is unacceptable.,Credit Card,Website
+C00592,unable to log into my account. please resolve this issue immediately.,Online Banking,Mobile App
+C00593,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Email
+C00594,account was closed without warning. I have contacted support multiple times.,Credit Card,Branch
+C00595,loan application was denied without explanation. this is unacceptable.,Personal Loan,Branch
+C00596,documents were submitted but no response. this has been very frustrating.,Personal Loan,Mobile App
+C00597,transactions not showing in app. I expect a prompt resolution.,Online Banking,Mobile App
+C00598,unable to log into my account. this is unacceptable.,Online Banking,Email
+C00599,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Email
+C00600,card was used without my permission. I have contacted support multiple times.,Checking Account,Mobile App
+C00601,mobile app keeps crashing. this is unacceptable.,Online Banking,Call Center
+C00602,received notice that my account is terminated. this has been very frustrating.,Credit Card,Call Center
+C00603,transactions not showing in app. I have contacted support multiple times.,Online Banking,Website
+C00604,issue was escalated but no follow up. this is unacceptable.,Mortgage,Email
+C00605,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00606,approval process is taking too long. this is unacceptable.,Personal Loan,Call Center
+C00607,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Branch
+C00608,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Call Center
+C00609,transactions not showing in app. I expect a prompt resolution.,Online Banking,Mobile App
+C00610,unable to log into my account. I have contacted support multiple times.,Online Banking,Mobile App
+C00611,account was closed without warning. this is unacceptable.,Credit Card,Call Center
+C00612,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Call Center
+C00613,account was closed without warning. please resolve this issue immediately.,Credit Card,Call Center
+C00614,long wait times on the phone. I have contacted support multiple times.,Mortgage,Website
+C00615,fraud claim has not been resolved. this is unacceptable.,Checking Account,Email
+C00616,website shows error during login. I expect a prompt resolution.,Online Banking,Branch
+C00617,long wait times on the phone. I have contacted support multiple times.,Mortgage,Email
+C00618,billing statement has unexplained charges. this is unacceptable.,Credit Card,Email
+C00619,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Email
+C00620,charged unexpected fees on my credit card. I expect a prompt resolution.,Credit Card,Email
+C00621,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Website
+C00622,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Branch
+C00623,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Branch
+C00624,billing statement has unexplained charges. this is unacceptable.,Credit Card,Mobile App
+C00625,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Branch
+C00626,fraudulent charges still pending. this has been very frustrating.,Checking Account,Email
+C00627,card was used without my permission. this has been very frustrating.,Checking Account,Branch
+C00628,online banking system was down. I have contacted support multiple times.,Online Banking,Email
+C00629,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Call Center
+C00630,account was closed without warning. I expect a prompt resolution.,Credit Card,Mobile App
+C00631,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Call Center
+C00632,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Branch
+C00633,website shows error during login. this is unacceptable.,Online Banking,Branch
+C00634,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Website
+C00635,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Website
+C00636,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Website
+C00637,received notice that my account is terminated. this has been very frustrating.,Credit Card,Mobile App
+C00638,website shows error during login. I expect a prompt resolution.,Online Banking,Branch
+C00639,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Website
+C00640,card was used without my permission. I have contacted support multiple times.,Checking Account,Call Center
+C00641,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Branch
+C00642,customer service never responds. I have contacted support multiple times.,Mortgage,Website
+C00643,charged unexpected fees on my credit card. I expect a prompt resolution.,Credit Card,Mobile App
+C00644,fraudulent charges still pending. this has been very frustrating.,Checking Account,Website
+C00645,account was closed without warning. this is unacceptable.,Credit Card,Branch
+C00646,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Mobile App
+C00647,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Website
+C00648,cannot reopen my account. please resolve this issue immediately.,Credit Card,Email
+C00649,representative was unhelpful. I have contacted support multiple times.,Mortgage,Call Center
+C00650,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Branch
+C00651,unable to log into my account. this has been very frustrating.,Online Banking,Email
+C00652,long wait times on the phone. this is unacceptable.,Mortgage,Email
+C00653,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Branch
+C00654,representative was unhelpful. this is unacceptable.,Mortgage,Branch
+C00655,documents were submitted but no response. this is unacceptable.,Personal Loan,Website
+C00656,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Website
+C00657,mobile app keeps crashing. this is unacceptable.,Online Banking,Mobile App
+C00658,issue was escalated but no follow up. this is unacceptable.,Mortgage,Email
+C00659,long wait times on the phone. this is unacceptable.,Mortgage,Website
+C00660,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Mobile App
+C00661,card was used without my permission. this has been very frustrating.,Checking Account,Email
+C00662,received notice that my account is terminated. this has been very frustrating.,Credit Card,Call Center
+C00663,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Mobile App
+C00664,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Email
+C00665,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Call Center
+C00666,online banking system was down. I have contacted support multiple times.,Online Banking,Website
+C00667,account was closed without warning. this is unacceptable.,Credit Card,Website
+C00668,cannot reopen my account. I have contacted support multiple times.,Credit Card,Branch
+C00669,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Call Center
+C00670,dispute process is extremely slow. I expect a prompt resolution.,Checking Account,Call Center
+C00671,unable to log into my account. please resolve this issue immediately.,Online Banking,Email
+C00672,dispute process is extremely slow. this has been very frustrating.,Checking Account,Branch
+C00673,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Call Center
+C00674,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Website
+C00675,received notice that my account is terminated. this has been very frustrating.,Credit Card,Call Center
+C00676,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Branch
+C00677,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Call Center
+C00678,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Website
+C00679,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Call Center
+C00680,dispute process is extremely slow. this is unacceptable.,Checking Account,Website
+C00681,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Website
+C00682,cannot reopen my account. this is unacceptable.,Credit Card,Website
+C00683,customer service never responds. I expect a prompt resolution.,Mortgage,Mobile App
+C00684,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Branch
+C00685,approval process is taking too long. this has been very frustrating.,Personal Loan,Website
+C00686,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Branch
+C00687,online banking system was down. I expect a prompt resolution.,Online Banking,Email
+C00688,dispute process is extremely slow. this has been very frustrating.,Checking Account,Mobile App
+C00689,support team keeps transferring me. this is unacceptable.,Mortgage,Mobile App
+C00690,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Email
+C00691,online banking system was down. I expect a prompt resolution.,Online Banking,Branch
+C00692,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Email
+C00693,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Email
+C00694,representative was unhelpful. please resolve this issue immediately.,Mortgage,Call Center
+C00695,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Branch
+C00696,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Website
+C00697,online banking system was down. this has been very frustrating.,Online Banking,Mobile App
+C00698,dispute process is extremely slow. this is unacceptable.,Checking Account,Email
+C00699,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Website
+C00700,late payment fee seems incorrect. this is unacceptable.,Credit Card,Call Center
+C00701,customer service never responds. I expect a prompt resolution.,Mortgage,Mobile App
+C00702,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Branch
+C00703,online banking system was down. this has been very frustrating.,Online Banking,Call Center
+C00704,support team keeps transferring me. this has been very frustrating.,Mortgage,Website
+C00705,online banking system was down. I have contacted support multiple times.,Online Banking,Email
+C00706,loan status keeps changing online. this has been very frustrating.,Personal Loan,Call Center
+C00707,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Email
+C00708,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Branch
+C00709,received notice that my account is terminated. this has been very frustrating.,Credit Card,Email
+C00710,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Mobile App
+C00711,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Call Center
+C00712,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Branch
+C00713,online banking system was down. please resolve this issue immediately.,Online Banking,Branch
+C00714,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Email
+C00715,dispute process is extremely slow. I have contacted support multiple times.,Checking Account,Email
+C00716,no explanation given for account closure. this has been very frustrating.,Credit Card,Email
+C00717,mobile app keeps crashing. this has been very frustrating.,Online Banking,Mobile App
+C00718,mobile app keeps crashing. this is unacceptable.,Online Banking,Website
+C00719,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Call Center
+C00720,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Call Center
+C00721,card was used without my permission. please resolve this issue immediately.,Checking Account,Mobile App
+C00722,loan application was denied without explanation. I have contacted support multiple times.,Personal Loan,Branch
+C00723,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Email
+C00724,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Mobile App
+C00725,transactions not showing in app. this has been very frustrating.,Online Banking,Email
+C00726,representative was unhelpful. this is unacceptable.,Mortgage,Mobile App
+C00727,website shows error during login. this is unacceptable.,Online Banking,Mobile App
+C00728,cannot reopen my account. I have contacted support multiple times.,Credit Card,Email
+C00729,long wait times on the phone. this is unacceptable.,Mortgage,Website
+C00730,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Call Center
+C00731,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Website
+C00732,card was used without my permission. this is unacceptable.,Checking Account,Call Center
+C00733,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Call Center
+C00734,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Email
+C00735,loan status keeps changing online. this has been very frustrating.,Personal Loan,Website
+C00736,online banking system was down. this is unacceptable.,Online Banking,Call Center
+C00737,issue was escalated but no follow up. please resolve this issue immediately.,Mortgage,Branch
+C00738,website shows error during login. I expect a prompt resolution.,Online Banking,Website
+C00739,unable to log into my account. I expect a prompt resolution.,Online Banking,Website
+C00740,card was used without my permission. I have contacted support multiple times.,Checking Account,Branch
+C00741,unable to log into my account. this is unacceptable.,Online Banking,Email
+C00742,documents were submitted but no response. this is unacceptable.,Personal Loan,Call Center
+C00743,card was used without my permission. this has been very frustrating.,Checking Account,Email
+C00744,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Website
+C00745,cannot reopen my account. this has been very frustrating.,Credit Card,Branch
+C00746,received notice that my account is terminated. this is unacceptable.,Credit Card,Call Center
+C00747,account was closed without warning. this is unacceptable.,Credit Card,Branch
+C00748,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Call Center
+C00749,received notice that my account is terminated. this is unacceptable.,Credit Card,Branch
+C00750,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Branch
+C00751,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Email
+C00752,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Mobile App
+C00753,transactions not showing in app. I expect a prompt resolution.,Online Banking,Mobile App
+C00754,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Website
+C00755,cannot reopen my account. this has been very frustrating.,Credit Card,Email
+C00756,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Branch
+C00757,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Call Center
+C00758,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Email
+C00759,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Branch
+C00760,website shows error during login. this is unacceptable.,Online Banking,Email
+C00761,cannot reopen my account. I have contacted support multiple times.,Credit Card,Call Center
+C00762,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Call Center
+C00763,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Website
+C00764,unable to log into my account. please resolve this issue immediately.,Online Banking,Branch
+C00765,received conflicting information about approval. this is unacceptable.,Personal Loan,Call Center
+C00766,unauthorized transaction on my account. this is unacceptable.,Checking Account,Branch
+C00767,online banking system was down. please resolve this issue immediately.,Online Banking,Mobile App
+C00768,account was closed without warning. this has been very frustrating.,Credit Card,Call Center
+C00769,account was closed without warning. I have contacted support multiple times.,Credit Card,Website
+C00770,long wait times on the phone. I expect a prompt resolution.,Mortgage,Website
+C00771,transactions not showing in app. this is unacceptable.,Online Banking,Branch
+C00772,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Website
+C00773,no explanation given for account closure. this is unacceptable.,Credit Card,Mobile App
+C00774,cannot reopen my account. I have contacted support multiple times.,Credit Card,Branch
+C00775,issue was escalated but no follow up. this is unacceptable.,Mortgage,Mobile App
+C00776,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Call Center
+C00777,account was closed without warning. I expect a prompt resolution.,Credit Card,Mobile App
+C00778,long wait times on the phone. please resolve this issue immediately.,Mortgage,Call Center
+C00779,loan status keeps changing online. this has been very frustrating.,Personal Loan,Call Center
+C00780,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Call Center
+C00781,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Branch
+C00782,customer service never responds. please resolve this issue immediately.,Mortgage,Call Center
+C00783,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Call Center
+C00784,support team keeps transferring me. this has been very frustrating.,Mortgage,Website
+C00785,online banking system was down. I have contacted support multiple times.,Online Banking,Call Center
+C00786,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Website
+C00787,issue was escalated but no follow up. this is unacceptable.,Mortgage,Email
+C00788,received conflicting information about approval. this is unacceptable.,Personal Loan,Branch
+C00789,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Website
+C00790,long wait times on the phone. this is unacceptable.,Mortgage,Call Center
+C00791,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Branch
+C00792,customer service never responds. please resolve this issue immediately.,Mortgage,Mobile App
+C00793,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Branch
+C00794,support team keeps transferring me. this is unacceptable.,Mortgage,Branch
+C00795,no explanation given for account closure. this is unacceptable.,Credit Card,Branch
+C00796,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Email
+C00797,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Mobile App
+C00798,mobile app keeps crashing. I expect a prompt resolution.,Online Banking,Call Center
+C00799,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Branch
+C00800,support team keeps transferring me. this has been very frustrating.,Mortgage,Email
+C00801,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Call Center
+C00802,customer service never responds. this is unacceptable.,Mortgage,Email
+C00803,loan status keeps changing online. this has been very frustrating.,Personal Loan,Website
+C00804,online banking system was down. this is unacceptable.,Online Banking,Call Center
+C00805,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00806,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Call Center
+C00807,cannot reopen my account. this is unacceptable.,Credit Card,Website
+C00808,long wait times on the phone. I have contacted support multiple times.,Mortgage,Website
+C00809,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Email
+C00810,transactions not showing in app. I expect a prompt resolution.,Online Banking,Website
+C00811,unable to log into my account. please resolve this issue immediately.,Online Banking,Email
+C00812,transactions not showing in app. this has been very frustrating.,Online Banking,Website
+C00813,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Website
+C00814,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Website
+C00815,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Branch
+C00816,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Call Center
+C00817,no explanation given for account closure. this is unacceptable.,Credit Card,Branch
+C00818,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Email
+C00819,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Branch
+C00820,card was used without my permission. I expect a prompt resolution.,Checking Account,Mobile App
+C00821,account was closed without warning. this is unacceptable.,Credit Card,Call Center
+C00822,billing statement has unexplained charges. this is unacceptable.,Credit Card,Website
+C00823,fraud claim has not been resolved. this is unacceptable.,Checking Account,Call Center
+C00824,unable to log into my account. please resolve this issue immediately.,Online Banking,Email
+C00825,long wait times on the phone. I expect a prompt resolution.,Mortgage,Branch
+C00826,online banking system was down. this has been very frustrating.,Online Banking,Mobile App
+C00827,no explanation given for account closure. this has been very frustrating.,Credit Card,Mobile App
+C00828,loan status keeps changing online. this is unacceptable.,Personal Loan,Mobile App
+C00829,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Call Center
+C00830,documents were submitted but no response. this has been very frustrating.,Personal Loan,Call Center
+C00831,online banking system was down. please resolve this issue immediately.,Online Banking,Website
+C00832,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Website
+C00833,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Mobile App
+C00834,loan status keeps changing online. this has been very frustrating.,Personal Loan,Website
+C00835,long wait times on the phone. I expect a prompt resolution.,Mortgage,Branch
+C00836,charged unexpected fees on my credit card. please resolve this issue immediately.,Credit Card,Mobile App
+C00837,fraud claim has not been resolved. this is unacceptable.,Checking Account,Mobile App
+C00838,loan status keeps changing online. this has been very frustrating.,Personal Loan,Mobile App
+C00839,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Call Center
+C00840,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Website
+C00841,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Mobile App
+C00842,long wait times on the phone. this is unacceptable.,Mortgage,Call Center
+C00843,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Branch
+C00844,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Mobile App
+C00845,annual fee was applied without notice. this has been very frustrating.,Credit Card,Email
+C00846,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Branch
+C00847,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Call Center
+C00848,account was closed without warning. I have contacted support multiple times.,Credit Card,Email
+C00849,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Call Center
+C00850,account was closed without warning. please resolve this issue immediately.,Credit Card,Website
+C00851,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Website
+C00852,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Mobile App
+C00853,loan status keeps changing online. this is unacceptable.,Personal Loan,Mobile App
+C00854,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Mobile App
+C00855,customer service never responds. please resolve this issue immediately.,Mortgage,Call Center
+C00856,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Branch
+C00857,transactions not showing in app. I have contacted support multiple times.,Online Banking,Branch
+C00858,charged unexpected fees on my credit card. I expect a prompt resolution.,Credit Card,Mobile App
+C00859,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Mobile App
+C00860,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Call Center
+C00861,cannot reopen my account. this is unacceptable.,Credit Card,Branch
+C00862,no explanation given for account closure. this has been very frustrating.,Credit Card,Email
+C00863,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Call Center
+C00864,interest rate increased suddenly. this has been very frustrating.,Credit Card,Email
+C00865,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Call Center
+C00866,fraudulent charges still pending. this has been very frustrating.,Checking Account,Call Center
+C00867,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Mobile App
+C00868,loan application was denied without explanation. this is unacceptable.,Personal Loan,Mobile App
+C00869,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Mobile App
+C00870,mobile app keeps crashing. this has been very frustrating.,Online Banking,Mobile App
+C00871,received notice that my account is terminated. this has been very frustrating.,Credit Card,Website
+C00872,card was used without my permission. I expect a prompt resolution.,Checking Account,Email
+C00873,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Call Center
+C00874,documents were submitted but no response. this has been very frustrating.,Personal Loan,Mobile App
+C00875,website shows error during login. please resolve this issue immediately.,Online Banking,Email
+C00876,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Mobile App
+C00877,dispute process is extremely slow. I expect a prompt resolution.,Checking Account,Call Center
+C00878,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Website
+C00879,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Mobile App
+C00880,customer service never responds. I have contacted support multiple times.,Mortgage,Email
+C00881,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Website
+C00882,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Branch
+C00883,approval process is taking too long. this has been very frustrating.,Personal Loan,Email
+C00884,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Call Center
+C00885,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Call Center
+C00886,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Mobile App
+C00887,customer service never responds. I have contacted support multiple times.,Mortgage,Website
+C00888,customer service never responds. this is unacceptable.,Mortgage,Mobile App
+C00889,card was used without my permission. please resolve this issue immediately.,Checking Account,Call Center
+C00890,billing statement has unexplained charges. this is unacceptable.,Credit Card,Mobile App
+C00891,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Email
+C00892,transactions not showing in app. I have contacted support multiple times.,Online Banking,Branch
+C00893,transactions not showing in app. this is unacceptable.,Online Banking,Website
+C00894,cannot reopen my account. I have contacted support multiple times.,Credit Card,Website
+C00895,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Website
+C00896,representative was unhelpful. this has been very frustrating.,Mortgage,Call Center
+C00897,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Mobile App
+C00898,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Branch
+C00899,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Call Center
+C00900,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Email
+C00901,card was used without my permission. this is unacceptable.,Checking Account,Mobile App
+C00902,customer service never responds. I expect a prompt resolution.,Mortgage,Website
+C00903,no explanation given for account closure. this has been very frustrating.,Credit Card,Email
+C00904,customer service never responds. this is unacceptable.,Mortgage,Website
+C00905,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Call Center
+C00906,card was used without my permission. please resolve this issue immediately.,Checking Account,Branch
+C00907,mobile app keeps crashing. this has been very frustrating.,Online Banking,Website
+C00908,received conflicting information about approval. this has been very frustrating.,Personal Loan,Website
+C00909,annual fee was applied without notice. this is unacceptable.,Credit Card,Branch
+C00910,website shows error during login. this has been very frustrating.,Online Banking,Email
+C00911,mobile app keeps crashing. this is unacceptable.,Online Banking,Call Center
+C00912,card was used without my permission. this has been very frustrating.,Checking Account,Mobile App
+C00913,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Mobile App
+C00914,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Mobile App
+C00915,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Branch
+C00916,customer service never responds. please resolve this issue immediately.,Mortgage,Call Center
+C00917,loan application was denied without explanation. this is unacceptable.,Personal Loan,Branch
+C00918,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Mobile App
+C00919,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Mobile App
+C00920,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Website
+C00921,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Mobile App
+C00922,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Mobile App
+C00923,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Branch
+C00924,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Mobile App
+C00925,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Website
+C00926,issue was escalated but no follow up. this is unacceptable.,Mortgage,Branch
+C00927,late payment fee seems incorrect. this is unacceptable.,Credit Card,Website
+C00928,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Call Center
+C00929,website shows error during login. I have contacted support multiple times.,Online Banking,Mobile App
+C00930,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Website
+C00931,funds are inaccessible after closure. this is unacceptable.,Credit Card,Branch
+C00932,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Mobile App
+C00933,website shows error during login. I have contacted support multiple times.,Online Banking,Branch
+C00934,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Email
+C00935,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Branch
+C00936,issue was escalated but no follow up. please resolve this issue immediately.,Mortgage,Email
+C00937,representative was unhelpful. this is unacceptable.,Mortgage,Call Center
+C00938,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Email
+C00939,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Mobile App
+C00940,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Email
+C00941,approval process is taking too long. this has been very frustrating.,Personal Loan,Website
+C00942,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Email
+C00943,account was closed without warning. I have contacted support multiple times.,Credit Card,Email
+C00944,card was used without my permission. I have contacted support multiple times.,Checking Account,Website
+C00945,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Call Center
+C00946,customer service never responds. please resolve this issue immediately.,Mortgage,Email
+C00947,long wait times on the phone. I expect a prompt resolution.,Mortgage,Website
+C00948,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Website
+C00949,unauthorized transaction on my account. this has been very frustrating.,Checking Account,Mobile App
+C00950,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Mobile App
+C00951,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Call Center
+C00952,long wait times on the phone. I have contacted support multiple times.,Mortgage,Call Center
+C00953,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Mobile App
+C00954,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Website
+C00955,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Mobile App
+C00956,website shows error during login. I expect a prompt resolution.,Online Banking,Mobile App
+C00957,unable to log into my account. please resolve this issue immediately.,Online Banking,Website
+C00958,loan status keeps changing online. this is unacceptable.,Personal Loan,Call Center
+C00959,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Call Center
+C00960,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Branch
+C00961,unable to log into my account. I have contacted support multiple times.,Online Banking,Website
+C00962,account was closed without warning. I expect a prompt resolution.,Credit Card,Branch
+C00963,customer service never responds. I have contacted support multiple times.,Mortgage,Email
+C00964,transactions not showing in app. I have contacted support multiple times.,Online Banking,Email
+C00965,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Call Center
+C00966,account was closed without warning. I have contacted support multiple times.,Credit Card,Call Center
+C00967,mobile app keeps crashing. this has been very frustrating.,Online Banking,Call Center
+C00968,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Website
+C00969,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Call Center
+C00970,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Branch
+C00971,dispute process is extremely slow. I have contacted support multiple times.,Checking Account,Branch
+C00972,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Email
+C00973,unauthorized transaction on my account. this is unacceptable.,Checking Account,Email
+C00974,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Branch
+C00975,charged unexpected fees on my credit card. please resolve this issue immediately.,Credit Card,Mobile App
+C00976,unable to log into my account. this has been very frustrating.,Online Banking,Mobile App
+C00977,mobile app keeps crashing. this is unacceptable.,Online Banking,Website
+C00978,account was closed without warning. I expect a prompt resolution.,Credit Card,Mobile App
+C00979,transactions not showing in app. I expect a prompt resolution.,Online Banking,Branch
+C00980,account was closed without warning. this is unacceptable.,Credit Card,Website
+C00981,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Mobile App
+C00982,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Website
+C00983,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Call Center
+C00984,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Website
+C00985,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Email
+C00986,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Mobile App
+C00987,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C00988,transactions not showing in app. this is unacceptable.,Online Banking,Website
+C00989,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Website
+C00990,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Branch
+C00991,interest rate increased suddenly. this is unacceptable.,Credit Card,Branch
+C00992,card was used without my permission. this has been very frustrating.,Checking Account,Email
+C00993,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Branch
+C00994,mobile app keeps crashing. this is unacceptable.,Online Banking,Mobile App
+C00995,website shows error during login. this is unacceptable.,Online Banking,Call Center
+C00996,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Mobile App
+C00997,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Call Center
+C00998,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Website
+C00999,customer service never responds. this is unacceptable.,Mortgage,Email
+C01000,fraudulent charges still pending. this is unacceptable.,Checking Account,Email
+C01001,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Mobile App
+C01002,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Email
+C01003,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Website
+C01004,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Website
+C01005,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Mobile App
+C01006,unauthorized transaction on my account. this is unacceptable.,Checking Account,Website
+C01007,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Call Center
+C01008,online banking system was down. this has been very frustrating.,Online Banking,Branch
+C01009,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Call Center
+C01010,transactions not showing in app. this is unacceptable.,Online Banking,Mobile App
+C01011,cannot reopen my account. I expect a prompt resolution.,Credit Card,Email
+C01012,unauthorized transaction on my account. this is unacceptable.,Checking Account,Website
+C01013,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Email
+C01014,charged unexpected fees on my credit card. I expect a prompt resolution.,Credit Card,Mobile App
+C01015,transactions not showing in app. please resolve this issue immediately.,Online Banking,Branch
+C01016,website shows error during login. this is unacceptable.,Online Banking,Email
+C01017,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Website
+C01018,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C01019,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Branch
+C01020,mobile app keeps crashing. this has been very frustrating.,Online Banking,Branch
+C01021,unable to log into my account. this has been very frustrating.,Online Banking,Call Center
+C01022,unable to log into my account. please resolve this issue immediately.,Online Banking,Branch
+C01023,account was closed without warning. I have contacted support multiple times.,Credit Card,Website
+C01024,website shows error during login. please resolve this issue immediately.,Online Banking,Call Center
+C01025,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Mobile App
+C01026,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Branch
+C01027,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Call Center
+C01028,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Mobile App
+C01029,transactions not showing in app. this is unacceptable.,Online Banking,Website
+C01030,support team keeps transferring me. this has been very frustrating.,Mortgage,Website
+C01031,approval process is taking too long. this has been very frustrating.,Personal Loan,Website
+C01032,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Call Center
+C01033,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Call Center
+C01034,fraudulent charges still pending. this is unacceptable.,Checking Account,Mobile App
+C01035,account was closed without warning. I have contacted support multiple times.,Credit Card,Call Center
+C01036,fraudulent charges still pending. this is unacceptable.,Checking Account,Website
+C01037,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Call Center
+C01038,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Mobile App
+C01039,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C01040,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Website
+C01041,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Call Center
+C01042,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Mobile App
+C01043,account was closed without warning. this is unacceptable.,Credit Card,Website
+C01044,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Mobile App
+C01045,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Call Center
+C01046,funds are inaccessible after closure. this is unacceptable.,Credit Card,Branch
+C01047,website shows error during login. please resolve this issue immediately.,Online Banking,Website
+C01048,card was used without my permission. I expect a prompt resolution.,Checking Account,Email
+C01049,fraudulent charges still pending. this has been very frustrating.,Checking Account,Mobile App
+C01050,representative was unhelpful. I expect a prompt resolution.,Mortgage,Email
+C01051,representative was unhelpful. please resolve this issue immediately.,Mortgage,Mobile App
+C01052,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Call Center
+C01053,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Call Center
+C01054,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Website
+C01055,long wait times on the phone. this has been very frustrating.,Mortgage,Email
+C01056,card was used without my permission. I have contacted support multiple times.,Checking Account,Mobile App
+C01057,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Call Center
+C01058,dispute process is extremely slow. this is unacceptable.,Checking Account,Mobile App
+C01059,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Call Center
+C01060,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Branch
+C01061,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Call Center
+C01062,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Call Center
+C01063,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Call Center
+C01064,cannot reopen my account. I have contacted support multiple times.,Credit Card,Call Center
+C01065,account was closed without warning. I have contacted support multiple times.,Credit Card,Call Center
+C01066,documents were submitted but no response. this is unacceptable.,Personal Loan,Call Center
+C01067,unable to log into my account. I expect a prompt resolution.,Online Banking,Call Center
+C01068,unauthorized transaction on my account. this is unacceptable.,Checking Account,Mobile App
+C01069,cannot reopen my account. I expect a prompt resolution.,Credit Card,Email
+C01070,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Email
+C01071,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Call Center
+C01072,unauthorized transaction on my account. I have contacted support multiple times.,Checking Account,Website
+C01073,documents were submitted but no response. this is unacceptable.,Personal Loan,Email
+C01074,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Website
+C01075,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Website
+C01076,online banking system was down. this has been very frustrating.,Online Banking,Branch
+C01077,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Email
+C01078,loan status keeps changing online. this has been very frustrating.,Personal Loan,Website
+C01079,issue was escalated but no follow up. this is unacceptable.,Mortgage,Branch
+C01080,dispute process is extremely slow. this is unacceptable.,Checking Account,Mobile App
+C01081,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Call Center
+C01082,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Website
+C01083,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Website
+C01084,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Website
+C01085,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Email
+C01086,mobile app keeps crashing. this has been very frustrating.,Online Banking,Mobile App
+C01087,unable to log into my account. this is unacceptable.,Online Banking,Email
+C01088,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Branch
+C01089,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Branch
+C01090,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Branch
+C01091,annual fee was applied without notice. I have contacted support multiple times.,Credit Card,Website
+C01092,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Email
+C01093,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Mobile App
+C01094,card was used without my permission. I expect a prompt resolution.,Checking Account,Email
+C01095,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Mobile App
+C01096,account was closed without warning. this has been very frustrating.,Credit Card,Mobile App
+C01097,dispute process is extremely slow. this is unacceptable.,Checking Account,Mobile App
+C01098,representative was unhelpful. this is unacceptable.,Mortgage,Website
+C01099,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Branch
+C01100,account was closed without warning. I expect a prompt resolution.,Credit Card,Call Center
+C01101,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Branch
+C01102,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Mobile App
+C01103,online banking system was down. this has been very frustrating.,Online Banking,Branch
+C01104,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Call Center
+C01105,long wait times on the phone. please resolve this issue immediately.,Mortgage,Branch
+C01106,mobile app keeps crashing. this has been very frustrating.,Online Banking,Email
+C01107,fraud claim has not been resolved. this is unacceptable.,Checking Account,Call Center
+C01108,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Mobile App
+C01109,billing statement has unexplained charges. this is unacceptable.,Credit Card,Website
+C01110,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Mobile App
+C01111,mobile app keeps crashing. this is unacceptable.,Online Banking,Call Center
+C01112,website shows error during login. this has been very frustrating.,Online Banking,Mobile App
+C01113,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Call Center
+C01114,funds are inaccessible after closure. this is unacceptable.,Credit Card,Mobile App
+C01115,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Website
+C01116,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Call Center
+C01117,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Mobile App
+C01118,unable to log into my account. I have contacted support multiple times.,Online Banking,Mobile App
+C01119,dispute process is extremely slow. this is unacceptable.,Checking Account,Call Center
+C01120,dispute process is extremely slow. this is unacceptable.,Checking Account,Website
+C01121,annual fee was applied without notice. this has been very frustrating.,Credit Card,Website
+C01122,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Branch
+C01123,issue was escalated but no follow up. I have contacted support multiple times.,Mortgage,Email
+C01124,card was used without my permission. I expect a prompt resolution.,Checking Account,Mobile App
+C01125,received notice that my account is terminated. this is unacceptable.,Credit Card,Branch
+C01126,late payment fee seems incorrect. this is unacceptable.,Credit Card,Mobile App
+C01127,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Mobile App
+C01128,cannot reopen my account. I expect a prompt resolution.,Credit Card,Email
+C01129,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C01130,cannot reopen my account. this has been very frustrating.,Credit Card,Branch
+C01131,received notice that my account is terminated. this is unacceptable.,Credit Card,Call Center
+C01132,no explanation given for account closure. I have contacted support multiple times.,Credit Card,Email
+C01133,customer service never responds. this has been very frustrating.,Mortgage,Website
+C01134,issue was escalated but no follow up. this is unacceptable.,Mortgage,Website
+C01135,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Website
+C01136,unable to log into my account. this has been very frustrating.,Online Banking,Email
+C01137,received conflicting information about approval. this is unacceptable.,Personal Loan,Branch
+C01138,loan application was denied without explanation. this is unacceptable.,Personal Loan,Branch
+C01139,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Branch
+C01140,card was used without my permission. this has been very frustrating.,Checking Account,Branch
+C01141,account was closed without warning. this has been very frustrating.,Credit Card,Branch
+C01142,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Email
+C01143,charged unexpected fees on my credit card. I expect a prompt resolution.,Credit Card,Email
+C01144,funds are inaccessible after closure. I expect a prompt resolution.,Credit Card,Email
+C01145,loan status keeps changing online. please resolve this issue immediately.,Personal Loan,Call Center
+C01146,annual fee was applied without notice. this is unacceptable.,Credit Card,Call Center
+C01147,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Branch
+C01148,funds are inaccessible after closure. this is unacceptable.,Credit Card,Mobile App
+C01149,annual fee was applied without notice. this has been very frustrating.,Credit Card,Call Center
+C01150,unable to log into my account. I expect a prompt resolution.,Online Banking,Email
+C01151,online banking system was down. this has been very frustrating.,Online Banking,Website
+C01152,fraud claim has not been resolved. this is unacceptable.,Checking Account,Mobile App
+C01153,transactions not showing in app. I have contacted support multiple times.,Online Banking,Website
+C01154,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Branch
+C01155,documents were submitted but no response. this has been very frustrating.,Personal Loan,Branch
+C01156,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Branch
+C01157,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Website
+C01158,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Mobile App
+C01159,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Branch
+C01160,long wait times on the phone. I expect a prompt resolution.,Mortgage,Website
+C01161,received notice that my account is terminated. this has been very frustrating.,Credit Card,Branch
+C01162,cannot reopen my account. I expect a prompt resolution.,Credit Card,Call Center
+C01163,issue was escalated but no follow up. this is unacceptable.,Mortgage,Email
+C01164,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Branch
+C01165,unable to log into my account. this is unacceptable.,Online Banking,Website
+C01166,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Email
+C01167,transactions not showing in app. please resolve this issue immediately.,Online Banking,Email
+C01168,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Website
+C01169,representative was unhelpful. please resolve this issue immediately.,Mortgage,Website
+C01170,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Email
+C01171,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Call Center
+C01172,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Email
+C01173,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Call Center
+C01174,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Mobile App
+C01175,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Mobile App
+C01176,account was closed without warning. I have contacted support multiple times.,Credit Card,Call Center
+C01177,documents were submitted but no response. please resolve this issue immediately.,Personal Loan,Website
+C01178,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Email
+C01179,interest rate increased suddenly. this is unacceptable.,Credit Card,Mobile App
+C01180,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Email
+C01181,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Call Center
+C01182,account was closed without warning. this is unacceptable.,Credit Card,Branch
+C01183,card was used without my permission. I expect a prompt resolution.,Checking Account,Mobile App
+C01184,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Email
+C01185,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Email
+C01186,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Website
+C01187,website shows error during login. I have contacted support multiple times.,Online Banking,Mobile App
+C01188,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Mobile App
+C01189,unauthorized transaction on my account. this is unacceptable.,Checking Account,Call Center
+C01190,representative was unhelpful. I have contacted support multiple times.,Mortgage,Website
+C01191,representative was unhelpful. this has been very frustrating.,Mortgage,Call Center
+C01192,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Website
+C01193,transactions not showing in app. this has been very frustrating.,Online Banking,Email
+C01194,funds are inaccessible after closure. this is unacceptable.,Credit Card,Email
+C01195,representative was unhelpful. this has been very frustrating.,Mortgage,Call Center
+C01196,long wait times on the phone. I have contacted support multiple times.,Mortgage,Email
+C01197,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Branch
+C01198,support team keeps transferring me. this is unacceptable.,Mortgage,Mobile App
+C01199,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Call Center
+C01200,unable to log into my account. please resolve this issue immediately.,Online Banking,Website
+C01201,support team keeps transferring me. this is unacceptable.,Mortgage,Email
+C01202,account was closed without warning. this has been very frustrating.,Credit Card,Call Center
+C01203,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Email
+C01204,loan application was denied without explanation. please resolve this issue immediately.,Personal Loan,Branch
+C01205,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Email
+C01206,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Email
+C01207,transactions not showing in app. I expect a prompt resolution.,Online Banking,Branch
+C01208,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Website
+C01209,transactions not showing in app. this has been very frustrating.,Online Banking,Mobile App
+C01210,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Mobile App
+C01211,account was closed without warning. I have contacted support multiple times.,Credit Card,Website
+C01212,no explanation given for account closure. this has been very frustrating.,Credit Card,Website
+C01213,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Website
+C01214,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Mobile App
+C01215,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Website
+C01216,transactions not showing in app. this has been very frustrating.,Online Banking,Email
+C01217,documents were submitted but no response. this is unacceptable.,Personal Loan,Branch
+C01218,dispute process is extremely slow. this is unacceptable.,Checking Account,Call Center
+C01219,late payment fee seems incorrect. this has been very frustrating.,Credit Card,Email
+C01220,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Email
+C01221,charged unexpected fees on my credit card. please resolve this issue immediately.,Credit Card,Email
+C01222,interest rate increased suddenly. please resolve this issue immediately.,Credit Card,Email
+C01223,interest rate increased suddenly. this is unacceptable.,Credit Card,Branch
+C01224,unauthorized transaction on my account. this is unacceptable.,Checking Account,Website
+C01225,long wait times on the phone. I have contacted support multiple times.,Mortgage,Branch
+C01226,representative was unhelpful. I have contacted support multiple times.,Mortgage,Call Center
+C01227,funds are inaccessible after closure. this has been very frustrating.,Credit Card,Email
+C01228,long wait times on the phone. this has been very frustrating.,Mortgage,Mobile App
+C01229,billing statement has unexplained charges. I expect a prompt resolution.,Credit Card,Branch
+C01230,support team keeps transferring me. this has been very frustrating.,Mortgage,Call Center
+C01231,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Branch
+C01232,cannot reopen my account. I have contacted support multiple times.,Credit Card,Website
+C01233,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Call Center
+C01234,loan application was denied without explanation. I have contacted support multiple times.,Personal Loan,Email
+C01235,billing statement has unexplained charges. this is unacceptable.,Credit Card,Email
+C01236,interest rate increased suddenly. this has been very frustrating.,Credit Card,Call Center
+C01237,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Branch
+C01238,unable to log into my account. I have contacted support multiple times.,Online Banking,Website
+C01239,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Mobile App
+C01240,documents were submitted but no response. this is unacceptable.,Personal Loan,Branch
+C01241,transactions not showing in app. please resolve this issue immediately.,Online Banking,Email
+C01242,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Call Center
+C01243,website shows error during login. I have contacted support multiple times.,Online Banking,Mobile App
+C01244,mobile app keeps crashing. I have contacted support multiple times.,Online Banking,Branch
+C01245,unable to log into my account. I have contacted support multiple times.,Online Banking,Call Center
+C01246,dispute process is extremely slow. this is unacceptable.,Checking Account,Call Center
+C01247,website shows error during login. I expect a prompt resolution.,Online Banking,Mobile App
+C01248,received conflicting information about approval. this has been very frustrating.,Personal Loan,Call Center
+C01249,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Call Center
+C01250,account was closed without warning. this has been very frustrating.,Credit Card,Mobile App
+C01251,customer service never responds. I expect a prompt resolution.,Mortgage,Email
+C01252,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Mobile App
+C01253,representative was unhelpful. I expect a prompt resolution.,Mortgage,Email
+C01254,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Branch
+C01255,received conflicting information about approval. please resolve this issue immediately.,Personal Loan,Website
+C01256,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Mobile App
+C01257,card was used without my permission. I expect a prompt resolution.,Checking Account,Mobile App
+C01258,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Website
+C01259,long wait times on the phone. this is unacceptable.,Mortgage,Website
+C01260,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Website
+C01261,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Mobile App
+C01262,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Mobile App
+C01263,unable to log into my account. I have contacted support multiple times.,Online Banking,Mobile App
+C01264,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Call Center
+C01265,dispute process is extremely slow. this is unacceptable.,Checking Account,Mobile App
+C01266,interest rate increased suddenly. this has been very frustrating.,Credit Card,Email
+C01267,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Email
+C01268,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Branch
+C01269,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Email
+C01270,account was closed without warning. I expect a prompt resolution.,Credit Card,Call Center
+C01271,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Branch
+C01272,unable to log into my account. this is unacceptable.,Online Banking,Branch
+C01273,customer service never responds. I expect a prompt resolution.,Mortgage,Website
+C01274,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Mobile App
+C01275,representative was unhelpful. I have contacted support multiple times.,Mortgage,Website
+C01276,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Email
+C01277,account was closed without warning. I have contacted support multiple times.,Credit Card,Branch
+C01278,online banking system was down. this is unacceptable.,Online Banking,Branch
+C01279,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Website
+C01280,no explanation given for account closure. this has been very frustrating.,Credit Card,Website
+C01281,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Email
+C01282,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Mobile App
+C01283,long wait times on the phone. this has been very frustrating.,Mortgage,Website
+C01284,mobile app keeps crashing. I expect a prompt resolution.,Online Banking,Branch
+C01285,support team keeps transferring me. this has been very frustrating.,Mortgage,Call Center
+C01286,annual fee was applied without notice. this is unacceptable.,Credit Card,Email
+C01287,dispute process is extremely slow. I have contacted support multiple times.,Checking Account,Website
+C01288,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Email
+C01289,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Call Center
+C01290,documents were submitted but no response. this is unacceptable.,Personal Loan,Email
+C01291,customer service never responds. I have contacted support multiple times.,Mortgage,Branch
+C01292,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Mobile App
+C01293,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Branch
+C01294,received conflicting information about approval. this has been very frustrating.,Personal Loan,Website
+C01295,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Mobile App
+C01296,support team keeps transferring me. this has been very frustrating.,Mortgage,Mobile App
+C01297,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Email
+C01298,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Branch
+C01299,online banking system was down. I expect a prompt resolution.,Online Banking,Branch
+C01300,loan status keeps changing online. this is unacceptable.,Personal Loan,Call Center
+C01301,support team keeps transferring me. this has been very frustrating.,Mortgage,Branch
+C01302,documents were submitted but no response. this is unacceptable.,Personal Loan,Website
+C01303,interest rate increased suddenly. I expect a prompt resolution.,Credit Card,Email
+C01304,card was used without my permission. I have contacted support multiple times.,Checking Account,Mobile App
+C01305,account was closed without warning. I expect a prompt resolution.,Credit Card,Email
+C01306,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Branch
+C01307,received notice that my account is terminated. please resolve this issue immediately.,Credit Card,Branch
+C01308,online banking system was down. I have contacted support multiple times.,Online Banking,Branch
+C01309,cannot reopen my account. please resolve this issue immediately.,Credit Card,Call Center
+C01310,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Call Center
+C01311,representative was unhelpful. this is unacceptable.,Mortgage,Website
+C01312,fraudulent charges still pending. I expect a prompt resolution.,Checking Account,Branch
+C01313,documents were submitted but no response. I expect a prompt resolution.,Personal Loan,Email
+C01314,card was used without my permission. please resolve this issue immediately.,Checking Account,Email
+C01315,website shows error during login. I have contacted support multiple times.,Online Banking,Mobile App
+C01316,received notice that my account is terminated. this is unacceptable.,Credit Card,Website
+C01317,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Branch
+C01318,transactions not showing in app. I expect a prompt resolution.,Online Banking,Mobile App
+C01319,loan status keeps changing online. this has been very frustrating.,Personal Loan,Mobile App
+C01320,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Branch
+C01321,charged unexpected fees on my credit card. please resolve this issue immediately.,Credit Card,Website
+C01322,online banking system was down. I expect a prompt resolution.,Online Banking,Mobile App
+C01323,no explanation given for account closure. this is unacceptable.,Credit Card,Email
+C01324,cannot reopen my account. please resolve this issue immediately.,Credit Card,Email
+C01325,annual fee was applied without notice. this is unacceptable.,Credit Card,Branch
+C01326,annual fee was applied without notice. I expect a prompt resolution.,Credit Card,Call Center
+C01327,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Email
+C01328,long wait times on the phone. I expect a prompt resolution.,Mortgage,Website
+C01329,account was closed without warning. please resolve this issue immediately.,Credit Card,Website
+C01330,account was closed without warning. I have contacted support multiple times.,Credit Card,Mobile App
+C01331,website shows error during login. please resolve this issue immediately.,Online Banking,Branch
+C01332,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Email
+C01333,charged unexpected fees on my credit card. this has been very frustrating.,Credit Card,Email
+C01334,transactions not showing in app. I expect a prompt resolution.,Online Banking,Call Center
+C01335,unable to log into my account. I have contacted support multiple times.,Online Banking,Email
+C01336,loan status keeps changing online. this is unacceptable.,Personal Loan,Email
+C01337,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Branch
+C01338,customer service never responds. I expect a prompt resolution.,Mortgage,Mobile App
+C01339,representative was unhelpful. please resolve this issue immediately.,Mortgage,Mobile App
+C01340,representative was unhelpful. I expect a prompt resolution.,Mortgage,Email
+C01341,website shows error during login. this is unacceptable.,Online Banking,Email
+C01342,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Branch
+C01343,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Mobile App
+C01344,unauthorized transaction on my account. please resolve this issue immediately.,Checking Account,Mobile App
+C01345,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Call Center
+C01346,card was used without my permission. I expect a prompt resolution.,Checking Account,Email
+C01347,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Call Center
+C01348,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Mobile App
+C01349,long wait times on the phone. this is unacceptable.,Mortgage,Call Center
+C01350,mobile app keeps crashing. I expect a prompt resolution.,Online Banking,Call Center
+C01351,approval process is taking too long. this is unacceptable.,Personal Loan,Website
+C01352,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Website
+C01353,approval process is taking too long. I have contacted support multiple times.,Personal Loan,Email
+C01354,mobile app keeps crashing. this has been very frustrating.,Online Banking,Mobile App
+C01355,late payment fee seems incorrect. I expect a prompt resolution.,Credit Card,Mobile App
+C01356,customer service never responds. this is unacceptable.,Mortgage,Call Center
+C01357,representative was unhelpful. this is unacceptable.,Mortgage,Email
+C01358,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C01359,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C01360,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Branch
+C01361,fraudulent charges still pending. this has been very frustrating.,Checking Account,Email
+C01362,website shows error during login. I have contacted support multiple times.,Online Banking,Branch
+C01363,billing statement has unexplained charges. this is unacceptable.,Credit Card,Call Center
+C01364,account was closed without warning. this has been very frustrating.,Credit Card,Website
+C01365,fraudulent charges still pending. this has been very frustrating.,Checking Account,Call Center
+C01366,transactions not showing in app. please resolve this issue immediately.,Online Banking,Website
+C01367,representative was unhelpful. I have contacted support multiple times.,Mortgage,Call Center
+C01368,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Call Center
+C01369,loan status keeps changing online. this is unacceptable.,Personal Loan,Website
+C01370,card was used without my permission. please resolve this issue immediately.,Checking Account,Branch
+C01371,website shows error during login. I have contacted support multiple times.,Online Banking,Email
+C01372,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Mobile App
+C01373,funds are inaccessible after closure. I have contacted support multiple times.,Credit Card,Email
+C01374,dispute process is extremely slow. I have contacted support multiple times.,Checking Account,Website
+C01375,received notice that my account is terminated. this is unacceptable.,Credit Card,Mobile App
+C01376,loan status keeps changing online. this is unacceptable.,Personal Loan,Website
+C01377,cannot reopen my account. I expect a prompt resolution.,Credit Card,Call Center
+C01378,card was used without my permission. please resolve this issue immediately.,Checking Account,Email
+C01379,customer service never responds. this is unacceptable.,Mortgage,Mobile App
+C01380,received notice that my account is terminated. this has been very frustrating.,Credit Card,Website
+C01381,website shows error during login. this has been very frustrating.,Online Banking,Branch
+C01382,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Call Center
+C01383,transactions not showing in app. I expect a prompt resolution.,Online Banking,Call Center
+C01384,online banking system was down. this is unacceptable.,Online Banking,Mobile App
+C01385,transactions not showing in app. I have contacted support multiple times.,Online Banking,Email
+C01386,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Call Center
+C01387,unable to log into my account. I expect a prompt resolution.,Online Banking,Branch
+C01388,no explanation given for account closure. this has been very frustrating.,Credit Card,Branch
+C01389,representative was unhelpful. this is unacceptable.,Mortgage,Website
+C01390,documents were submitted but no response. this is unacceptable.,Personal Loan,Email
+C01391,issue was escalated but no follow up. this has been very frustrating.,Mortgage,Mobile App
+C01392,documents were submitted but no response. I have contacted support multiple times.,Personal Loan,Call Center
+C01393,unable to log into my account. please resolve this issue immediately.,Online Banking,Email
+C01394,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Branch
+C01395,transactions not showing in app. I expect a prompt resolution.,Online Banking,Branch
+C01396,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Mobile App
+C01397,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Mobile App
+C01398,approval process is taking too long. this is unacceptable.,Personal Loan,Mobile App
+C01399,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Email
+C01400,charged unexpected fees on my credit card. this is unacceptable.,Credit Card,Email
+C01401,charged unexpected fees on my credit card. please resolve this issue immediately.,Credit Card,Email
+C01402,loan application was denied without explanation. this is unacceptable.,Personal Loan,Call Center
+C01403,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Branch
+C01404,received notice that my account is terminated. I have contacted support multiple times.,Credit Card,Email
+C01405,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Call Center
+C01406,website shows error during login. this is unacceptable.,Online Banking,Email
+C01407,transactions not showing in app. this is unacceptable.,Online Banking,Website
+C01408,cannot reopen my account. I have contacted support multiple times.,Credit Card,Email
+C01409,issue was escalated but no follow up. I expect a prompt resolution.,Mortgage,Branch
+C01410,support team keeps transferring me. please resolve this issue immediately.,Mortgage,Call Center
+C01411,fraudulent charges still pending. I have contacted support multiple times.,Checking Account,Mobile App
+C01412,card was used without my permission. please resolve this issue immediately.,Checking Account,Branch
+C01413,mobile app keeps crashing. please resolve this issue immediately.,Online Banking,Mobile App
+C01414,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Call Center
+C01415,website shows error during login. I expect a prompt resolution.,Online Banking,Mobile App
+C01416,no explanation given for account closure. this is unacceptable.,Credit Card,Call Center
+C01417,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Email
+C01418,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Call Center
+C01419,loan status keeps changing online. I expect a prompt resolution.,Personal Loan,Branch
+C01420,fraud claim has not been resolved. I have contacted support multiple times.,Checking Account,Branch
+C01421,fraud claim has not been resolved. please resolve this issue immediately.,Checking Account,Mobile App
+C01422,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Email
+C01423,funds are inaccessible after closure. please resolve this issue immediately.,Credit Card,Email
+C01424,website shows error during login. I have contacted support multiple times.,Online Banking,Mobile App
+C01425,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Mobile App
+C01426,no explanation given for account closure. I expect a prompt resolution.,Credit Card,Branch
+C01427,transactions not showing in app. this is unacceptable.,Online Banking,Website
+C01428,online banking system was down. I have contacted support multiple times.,Online Banking,Mobile App
+C01429,customer service never responds. I have contacted support multiple times.,Mortgage,Mobile App
+C01430,unable to log into my account. I have contacted support multiple times.,Online Banking,Branch
+C01431,account was closed without warning. I have contacted support multiple times.,Credit Card,Mobile App
+C01432,loan application was denied without explanation. this is unacceptable.,Personal Loan,Website
+C01433,website shows error during login. please resolve this issue immediately.,Online Banking,Branch
+C01434,website shows error during login. this has been very frustrating.,Online Banking,Call Center
+C01435,annual fee was applied without notice. this has been very frustrating.,Credit Card,Call Center
+C01436,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Branch
+C01437,approval process is taking too long. please resolve this issue immediately.,Personal Loan,Branch
+C01438,charged unexpected fees on my credit card. I have contacted support multiple times.,Credit Card,Branch
+C01439,fraud claim has not been resolved. this has been very frustrating.,Checking Account,Website
+C01440,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Website
+C01441,dispute process is extremely slow. please resolve this issue immediately.,Checking Account,Call Center
+C01442,loan application was denied without explanation. I expect a prompt resolution.,Personal Loan,Email
+C01443,interest rate increased suddenly. this is unacceptable.,Credit Card,Call Center
+C01444,documents were submitted but no response. this has been very frustrating.,Personal Loan,Website
+C01445,annual fee was applied without notice. this is unacceptable.,Credit Card,Call Center
+C01446,annual fee was applied without notice. please resolve this issue immediately.,Credit Card,Email
+C01447,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Mobile App
+C01448,billing statement has unexplained charges. this is unacceptable.,Credit Card,Email
+C01449,documents were submitted but no response. this has been very frustrating.,Personal Loan,Website
+C01450,loan status keeps changing online. this has been very frustrating.,Personal Loan,Email
+C01451,online banking system was down. this has been very frustrating.,Online Banking,Call Center
+C01452,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Mobile App
+C01453,loan status keeps changing online. I have contacted support multiple times.,Personal Loan,Call Center
+C01454,representative was unhelpful. this is unacceptable.,Mortgage,Website
+C01455,late payment fee seems incorrect. please resolve this issue immediately.,Credit Card,Website
+C01456,online banking system was down. this is unacceptable.,Online Banking,Branch
+C01457,representative was unhelpful. I expect a prompt resolution.,Mortgage,Branch
+C01458,received conflicting information about approval. I have contacted support multiple times.,Personal Loan,Email
+C01459,unable to log into my account. this is unacceptable.,Online Banking,Call Center
+C01460,support team keeps transferring me. I have contacted support multiple times.,Mortgage,Mobile App
+C01461,long wait times on the phone. this is unacceptable.,Mortgage,Call Center
+C01462,transactions not showing in app. please resolve this issue immediately.,Online Banking,Branch
+C01463,billing statement has unexplained charges. this is unacceptable.,Credit Card,Website
+C01464,billing statement has unexplained charges. please resolve this issue immediately.,Credit Card,Email
+C01465,documents were submitted but no response. this has been very frustrating.,Personal Loan,Email
+C01466,fraud claim has not been resolved. I expect a prompt resolution.,Checking Account,Branch
+C01467,long wait times on the phone. I expect a prompt resolution.,Mortgage,Call Center
+C01468,website shows error during login. please resolve this issue immediately.,Online Banking,Mobile App
+C01469,billing statement has unexplained charges. this has been very frustrating.,Credit Card,Mobile App
+C01470,approval process is taking too long. this has been very frustrating.,Personal Loan,Website
+C01471,late payment fee seems incorrect. I have contacted support multiple times.,Credit Card,Mobile App
+C01472,billing statement has unexplained charges. this is unacceptable.,Credit Card,Branch
+C01473,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Call Center
+C01474,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Email
+C01475,account was closed without warning. this has been very frustrating.,Credit Card,Website
+C01476,no explanation given for account closure. this has been very frustrating.,Credit Card,Branch
+C01477,account was closed without warning. please resolve this issue immediately.,Credit Card,Email
+C01478,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Mobile App
+C01479,representative was unhelpful. I expect a prompt resolution.,Mortgage,Mobile App
+C01480,account was closed without warning. please resolve this issue immediately.,Credit Card,Mobile App
+C01481,received conflicting information about approval. this has been very frustrating.,Personal Loan,Mobile App
+C01482,received notice that my account is terminated. I expect a prompt resolution.,Credit Card,Branch
+C01483,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Website
+C01484,long wait times on the phone. I expect a prompt resolution.,Mortgage,Email
+C01485,unauthorized transaction on my account. I expect a prompt resolution.,Checking Account,Call Center
+C01486,no explanation given for account closure. this is unacceptable.,Credit Card,Mobile App
+C01487,approval process is taking too long. I expect a prompt resolution.,Personal Loan,Branch
+C01488,representative was unhelpful. I have contacted support multiple times.,Mortgage,Email
+C01489,issue was escalated but no follow up. please resolve this issue immediately.,Mortgage,Call Center
+C01490,representative was unhelpful. please resolve this issue immediately.,Mortgage,Branch
+C01491,no explanation given for account closure. please resolve this issue immediately.,Credit Card,Email
+C01492,received conflicting information about approval. I expect a prompt resolution.,Personal Loan,Website
+C01493,fraudulent charges still pending. please resolve this issue immediately.,Checking Account,Call Center
+C01494,dispute process is extremely slow. this is unacceptable.,Checking Account,Mobile App
+C01495,account was closed without warning. please resolve this issue immediately.,Credit Card,Email
+C01496,billing statement has unexplained charges. I have contacted support multiple times.,Credit Card,Call Center
+C01497,interest rate increased suddenly. I have contacted support multiple times.,Credit Card,Website
+C01498,online banking system was down. please resolve this issue immediately.,Online Banking,Email
+C01499,support team keeps transferring me. I expect a prompt resolution.,Mortgage,Email
+C01500,loan application was denied without explanation. this has been very frustrating.,Personal Loan,Branch
