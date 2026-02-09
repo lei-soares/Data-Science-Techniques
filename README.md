@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a comprehensive, structured benchmark of Data Science techniques, organized to reflect the end-to-end lifecycle of real-world data science projects. It was created using AI under my supervision considering my Exprerience, Training (6 months of Traineeship) and Courses (30 courses from Codecademy), Udemy, and edX. 
+This repository is a comprehensive, structured benchmark of Data Science techniques, organized to reflect the end-to-end lifecycle of real-world data science projects. It was created using AI under my supervision based my Exprerience and understanding. 
 
 It is designed to serve as:
 
